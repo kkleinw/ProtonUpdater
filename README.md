@@ -4,9 +4,9 @@ Script to make it easier to update Proton GE to the latest version.
 Two simple scripts to help you to install the latest version of GloriousEggroll's custom Proton, which can be found [here](https://github.com/GloriousEggroll/proton-ge-custom)
 
 
-[Original script by /u/ChockFullOfShit](https://www.reddit.com/r/SteamPlay/comments/e2ms5v/custom_proton_glorious_eggroll_proton420ge1/f8y2ioe/), I (/u/flubberding) expanded a bit on it.
+[Original script by /u/ChockFullOfShit](https://www.reddit.com/r/SteamPlay/comments/e2ms5v/custom_proton_glorious_eggroll_proton420ge1/f8y2ioe/), further maintained and developed by [/u/flubberding](https://github.com/flubberding) who expanded a bit on it. I now continue on my own repo, because the script was sitting defunctional since many months.
 
-Disclaimer: Subversions like the MCC versions of Proton 4.21-GE-1, will install as it's main version and not install separately.
+Old Disclaimer: Subversions like the MCC versions of Proton 4.21-GE-1, will install as it's main version and not install separately.
 For now, this may result in false "not installed"-detections or errors while force installing a specific subversion.
 
 There are two scripts:
